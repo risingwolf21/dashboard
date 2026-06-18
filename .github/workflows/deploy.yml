@@ -3,7 +3,7 @@ name: Production
   workflow_dispatch: {}
   push:
     branches:
-      - production
+      - master
 
 env:
   CI: ""
