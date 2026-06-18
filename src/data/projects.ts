@@ -70,7 +70,7 @@ export const projects: Project[] = [
     pDot: "#048b6a",
   },
   {
-    id: "roundnet_karlsruhe_app",
+    id: "munich_roundnet_app",
     name: "Munich Roundnet App",
     tagline: "Multi-tenant Progressive Web Application for managing Roundnet community events, drinks, and games",
     domain: "munich-roundnet.web.app",
